@@ -23,7 +23,7 @@ Create a hashmap for CNIC. It should cater only those CNICs which have the same 
     - getCollisionStats (Tell about maximum and average collisions)
 
 
-## Running the code :
+## Compiling the code :
 
 Use the below command to run the code 
 
@@ -32,6 +32,14 @@ Use the below command to run the code
 ```
     
 This command will create all the executables(binaries)
+
+## Running the code :
+
+Use the below command to run the code 
+
+```make
+  make run 
+```
 
 ## Clean the executables :
 ```make
